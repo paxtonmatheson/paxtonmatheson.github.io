@@ -1,1 +1,1 @@
-- toDomain: https://twitch.tv/tonsofpax
+- https://twitch.tv/tonsofpax
